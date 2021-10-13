@@ -1,5 +1,8 @@
 context("firas")
 
-test_that("str_length is number of characters", {
+test_that("Variables names are correct", {
+
   expect_equal(firas(1,2),5)
+
+
 })
